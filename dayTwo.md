@@ -1,0 +1,3 @@
+# Learning Journal 301 Day 3 7/13/17
+
+Working on the assignment last night seemed to be a bit challenging for me without any person reference to turn to, sometimes it seems I can't find a solid answer for a problem that may arise. In return means more time stuck on a problem, also, without anybody to check the work to clarify and make sure it works properly. Also, I feel behind with my portfolio, for whatever reason im struggling with this. Working with DOM manipulation seems to be pretty step for step understandable, but using Jquery is all new to me and changing raw data into this new way of code, I feel is only confusing now because I haven't worked with it much. Hopefully it starts clicking soon because I dont want to get too far behind with class.
