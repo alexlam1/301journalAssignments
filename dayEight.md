@@ -1,0 +1,2 @@
+#7/20/17 day 8 
+For today I was awefully sick with the plague so I had to watch the class lecture from youtube. It was very challenging working on the lab by myself. Though it was straight forward assignment I still got lost trying to link my work. Trying to keep a positive attitude and not let myself get too stumped, alll of my answers are on google so instead of hitting my head against the keyboard I'm going to stay up right and do whats needed.
